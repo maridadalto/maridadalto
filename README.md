@@ -1,13 +1,12 @@
 # Olá, me chamo Marina ! 
-## Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil GitHub 👋
 
-## 🔭 Atualmente não estou trabalhando. 
+#### 🔭 Atualmente não estou trabalhando. 
 
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+### Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
-## Contatos:
+### Contatos:
 
 <div>
 <a href = "mailto:maridadalto@live.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
