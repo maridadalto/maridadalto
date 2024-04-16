@@ -3,7 +3,7 @@ Bem vindo ao meu perfil GitHub 👋
 
 Sou formada em Análise e Desenvolvimento de Sistemas, e trabalhei muito pouco tempo na área de desenvolvimento como estagiária e acabei mudando para a área de educação.
 
-Atualmente, busco voltar para a área de desenvolvimento e por isso estou estudando Python e Go para ver qual delas acho mais interessante.
+Busco voltar para a área de desenvolvimento e por isso estou estudando Python e Go para ver qual delas acho mais interessante.
 
  🔭 Atualmente não estou trabalhando. 
 
