@@ -3,12 +3,12 @@ Bem vindo ao meu perfil GitHub 👋
 
 Sou formada em Análise e Desenvolvimento de Sistemas, e trabalhei muito pouco tempo na área de desenvolvimento como estagiária e acabei mudando para a área de educação.
 
-Busco voltar para a área de desenvolvimento e por isso estou estudando Python e Go para ver qual delas acho mais interessante.
+Busco voltar para a área de tecnologia e por isso estou estudando Python e Engenharia de Dados para ver qual delas acho mais interessante.
 
- 🔭 Atualmente não estou trabalhando. 
+ 🔭 Atualmente trabalho dando aulas de Power BI e Excel do básico ao avançado. 
 
 ### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ### Contatos:
 
