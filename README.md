@@ -7,8 +7,8 @@ Busco voltar para a área de tecnologia e por isso estou estudando Python e Enge
 
  🔭 Atualmente trabalho dando aulas de Power BI e Excel do básico ao avançado. 
 
-### Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+### O que sei
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="40"> | <img src="https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png" width="40" height="40">
 
 ### Contatos:
 
